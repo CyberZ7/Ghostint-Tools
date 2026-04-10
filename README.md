@@ -55,7 +55,7 @@ Ce projet a été conçu pour :
 1. Télécharger le projet
 2. Ouvrir le fichier :
 ```
-osint-toolkit-simple-html.html
+index.html
 ```
 3. C’est prêt ✅
 
