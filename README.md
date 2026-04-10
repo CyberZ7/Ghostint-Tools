@@ -1,33 +1,39 @@
 # 🕵️ OSINT Master Toolkit v2 — Community Edition
 
+## 🚀 Accès direct
+
+👉 [🔗 Ouvrir le panneau OSINT](https://cyberz7.github.io/Ghostint-Tools/)
+
+---
+
 ## 📌 Description
 
-**OSINT Master Toolkit v2** est une plateforme HTML complète dédiée à l’Open Source Intelligence (OSINT).  
-Elle regroupe **plusieurs centaines d’outils** organisés par catégories pour faciliter les recherches, enquêtes et analyses.
+**OSINT Master Toolkit v2** est une plateforme interactive regroupant **plusieurs centaines d’outils OSINT** organisés par catégories.
 
-Ce projet a été conçu pour :
+Ce projet permet de :
+
 - Centraliser les meilleurs outils OSINT
-- Offrir une interface claire et rapide (offline / local)
-- Permettre une navigation fluide par catégories
-- Simplifier le travail des enquêteurs, analystes et passionnés
+- Accéder rapidement aux ressources essentielles
+- Naviguer facilement par catégories
+- Travailler en local ou en ligne
 
-👉 Aucun backend — tout fonctionne en **HTML/CSS/JS pur**
+👉 Interface rapide, moderne et 100% HTML (aucun backend)
 
 ---
 
 ## ⚙️ Fonctionnalités
 
-- 🔎 Recherche instantanée d’outils
-- 📂 Catégories dynamiques (Téléphones, Emails, DNS, etc.)
+- 🔎 Recherche instantanée
+- 📂 Navigation par catégories
 - 🧠 Outils IA intégrés
-- 🧩 +500 outils OSINT
-- 📋 Bouton "Copier le lien"
-- 🌐 Ouverture rapide des outils
-- 📱 Responsive (PC / Mobile)
+- 📋 Copier les liens en 1 clic
+- 🌐 Accès direct aux outils
+- 📱 Compatible PC / Mobile
+- 🧩 +400 outils OSINT
 
 ---
 
-## 🗂️ Catégories principales
+## 🗂️ Catégories
 
 - Téléphones
 - Emails
@@ -43,23 +49,17 @@ Ce projet a été conçu pour :
 - Entreprises
 - Code & Repositories
 - Threat Intelligence
-- Telegram OSINT
-- OPSEC & Navigateur
-- IA
+- Outils IA
 - Ressources
 
 ---
 
-## 🚀 Installation
+## 📂 Utilisation locale
 
-1. Télécharger le projet
+1. Télécharger le projet  
 2. Ouvrir le fichier :
-```
-index.html
-```
-3. C’est prêt ✅
 
-Aucune installation requise.
+3. C’est prêt ✅
 
 ---
 
@@ -68,9 +68,10 @@ Aucune installation requise.
 Ce projet est destiné à un usage **légal et éthique uniquement**.
 
 L’auteur ne peut être tenu responsable de :
-- Mauvaise utilisation des outils
-- Activités illégales
-- Violations de la vie privée
+
+- Mauvaise utilisation des outils  
+- Activités illégales  
+- Violations de la vie privée  
 
 👉 Respectez toujours les lois en vigueur.
 
@@ -78,18 +79,15 @@ L’auteur ne peut être tenu responsable de :
 
 ## 👤 Crédits
 
-Projet créé et maintenu par :
-
 **Zhétikal / CyberZ7**  
 🧠 OSINT • Investigation • Cyber
 
 ---
 
-## 🌐 Réseaux & Contact
+## 🌐 Contact & Réseaux
 
-- GitHub : https://github.com/cyberz7
-- Telegram : https://t.me/cyberz7
-- Startme : https://start.me/p/gGnJAQ/startpage
+- GitHub : https://github.com/CyberZ7  
+- Toolkit : https://cyberz7.github.io/Ghostint-Tools/  
 
 ---
 
@@ -97,10 +95,9 @@ Projet créé et maintenu par :
 
 Les contributions sont les bienvenues :
 
-- Ajout d’outils
-- Correction de liens
-- Amélioration UI/UX
-- Suggestions
+- Ajout d’outils  
+- Correction de liens  
+- Suggestions  
 
 👉 Fork + Pull Request
 
@@ -110,17 +107,9 @@ Les contributions sont les bienvenues :
 
 Si le projet t’aide :
 
-- ⭐ Laisse une étoile sur GitHub
-- 🔁 Partage le projet
-- 💬 Fais tourner dans la communauté OSINT
-
----
-
-## 🧩 Version
-
-**Community Edition**
-
-Version HTML complète — sans bots Telegram — optimisée pour usage local.
+- ⭐ Laisse une étoile  
+- 🔁 Partage le projet  
+- 💬 Diffuse dans la communauté OSINT  
 
 ---
 
